@@ -13,7 +13,7 @@
 </div>
 
 ### What is FILE?
-[**FILE**](https://github.com/HARRY-EXE/FILE) is a powerful tool developed by HARRY-EXE, designed to create files with ultra speed. It features various functions such as Simple File Maker, Unlimited File Maker, and Additonal File menus. Additionally, Provies Regular Updates.
+[**FILE**](https://github.com/HARRY-EXE/FILE) is a powerful tool developed by SURESHXETTRI, designed to create files with ultra speed. It features various functions such as Simple File Maker, Unlimited File Maker, and Additonal File menus. Additionally, Provies Regular Updates.
 ##
 
 ### Termux command?
@@ -36,4 +36,4 @@ python run.py
 
 ##
 
-Get ready to experience the power of FILE! 🚀
+Get ready to experience the power of FILE! SURESHXETTRI 🚀
