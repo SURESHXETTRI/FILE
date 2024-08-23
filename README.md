@@ -9,7 +9,7 @@
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/harry-exe/FILE">
     <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2024">
   </p>
-  <h4> Welcome to FILE, the powerful tool developed by HARRY-EXE. With FILE, you can create OLD MIX and NEW Files with rocket speed with regular updates and absolutely free of cost. Below are the commands to get started ! </h4>
+  <h4> Welcome to FILE, the powerful tool developed by SURESH. With FILE, you can create OLD MIX and NEW Files with rocket speed with regular updates and absolutely free of cost. Below are the commands to get started ! </h4>
 </div>
 
 ### What is FILE?
